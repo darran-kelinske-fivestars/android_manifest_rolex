@@ -2,7 +2,7 @@
 <manifest>
 
   <project name="muralivijay/android_device_xiaomi_rolex" path="device/xiaomi/rolex" remote="github" revision="cm-14.1" />
-  <project name="muralivijay/android_kernel_xiaomi_msm8917" path="kernel/lenovo/msm8917" remote="github" revision="cm-14.1" />
+  <project name="muralivijay/android_kernel_xiaomi_msm8917" path="kernel/lenovo/msm8917" remote="github" revision="cm-14.1-rolex" />
   <project name="muralivijay/android_vendor_xiaomi_rolex" path="vendor/xiaomi/rolex" remote="github" revision="cm-14.1" />
 
 </manifest>
