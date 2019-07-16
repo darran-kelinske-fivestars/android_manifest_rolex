@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="muralivijay/android_device_xiaomi_rolex" path="device/xiaomi/rolex" remote="github" revision="cm-14.1" />
+  <project name="darran-kelinske-fivestars/android_kernel_lenovo_tb8504f" path="kernel/lenovo/msm8917" remote="github" revision="cm-14.1" />
+  <project name="darran-kelinske-fivestars/android_vendor_lenovo_tb8504f" path="vendor/lenovo/tb8504f" remote="github" revision="cm-14.1" />
+
+</manifest>
